@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[firstname  entered in the text box]]>
+    </line>
+    <line>
+      <![CDATA[surname  entered in the text box]]>
+    </line>
+    <line>
+      <![CDATA[mobile no  entered in the text box]]>
+    </line>
+    <line>
+      <![CDATA[Newpassword entered in the text box]]>
+    </line>
+    <line>
+      <![CDATA[ Test Script fail]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35049" started-at="2017-06-07T17:16:39Z" finished-at="2017-06-07T17:17:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35049" started-at="2017-06-07T17:16:39Z" finished-at="2017-06-07T17:17:14Z">
+      <class name="com.automation.facebook.Fbsignup">
+        <test-method status="PASS" signature="TestSetup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:null(com.automation.facebook.Fbsignup)]" name="TestSetup" duration-ms="34962" started-at="2017-06-07T22:46:39Z" finished-at="2017-06-07T22:47:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestData1.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[paytm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[firstname  entered in the text box]]>
+            </line>
+            <line>
+              <![CDATA[surname  entered in the text box]]>
+            </line>
+            <line>
+              <![CDATA[mobile no  entered in the text box]]>
+            </line>
+            <line>
+              <![CDATA[Newpassword entered in the text box]]>
+            </line>
+            <line>
+              <![CDATA[ Test Script fail]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+      </class> <!-- com.automation.facebook.Fbsignup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
